@@ -1,0 +1,23 @@
+# Ignore virtual environment
+venv/
+
+# Ignore cloned Agent-S repo
+agent_s/
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+
+# Logs and traces
+logs/
+traces/
+
+# IDE/Editor junk
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
