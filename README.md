@@ -11,6 +11,7 @@ This project implements a multi-agent LLM-based QA pipeline using the Agent-S ar
 ## Running
 ```bash
 python main.py
+```
 
 ## Setup
 
